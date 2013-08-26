@@ -75,10 +75,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="counter_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="counter_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/counter_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="8" selection-start="61" selection-end="61" vertical-scroll-proportion="0.06263048">
+            <state line="2" column="8" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -93,10 +93,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Procfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="54" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
+            <state line="1" column="56" selection-start="89" selection-end="89" vertical-scroll-proportion="0.03131524">
               <folding />
             </state>
           </provider>
@@ -730,16 +730,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
+    <entry file="file://$PROJECT_DIR$/app/controllers/counter_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="54" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
+        <state line="2" column="8" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/counter_controller.rb">
+    <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="8" selection-start="61" selection-end="61" vertical-scroll-proportion="0.06263048">
+        <state line="1" column="56" selection-start="89" selection-end="89" vertical-scroll-proportion="0.03131524">
           <folding />
         </state>
       </provider>
