@@ -1,1 +1,1 @@
-chmod 777 <%= ENV[‘RAILS_STACK_PATH’] %>/lib/tasks/cpu.sh
+chmod 777 cpu.sh
