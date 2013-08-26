@@ -5,4 +5,9 @@ class CounterController < ApplicationController
 		# 	@cpu = line
 		#end
 	end
+
+	def top
+		@variable = rand(100)
+		gon.watch.top = `top -l1`
+	end
 end

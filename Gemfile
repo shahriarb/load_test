@@ -8,6 +8,7 @@ gem 'mysql2'
 
 gem 'delayed_job_active_record'
 gem 'pusher', '~> 0.12.0'
+gem "gon", "~> 4.1.1"
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'

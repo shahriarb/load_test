@@ -5,7 +5,8 @@ LoadTest::Application.routes.draw do
   # You can have the root of your site routed with "root"
   root 'load#index'
 
- match "/counter" => 'counter#counter', via: [:get, :post]
+  match "/counter" => 'counter#counter', via: [:get, :post]
+  get '/top' => 'home#top'
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 
