@@ -1,0 +1,21 @@
+production:
+    last_thing:
+      - source: /.cloud66/chmod.sh
+        destination: $RAILS_STACK_PATH/lib/tasks/chmod.sh
+        target: rails
+        execute: true
+        sudo: true
+development:
+    last_thing:
+      - source: /.cloud66/chmod.sh
+        destination: $RAILS_STACK_PATH/lib/tasks/chmod.sh
+        target: rails
+        execute: true
+        sudo: true
+staging:
+    last_thing:
+      - source: /.cloud66/chmod.sh
+        destination: $RAILS_STACK_PATH/lib/tasks/chmod.sh
+        target: rails
+        execute: true
+        sudo: true
