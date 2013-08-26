@@ -1,1 +1,1 @@
-chmod 777 cpu.sh
+chmod 777 ./cpu.sh
