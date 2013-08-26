@@ -8,7 +8,7 @@
     <file path="/counter_controller.rb" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377509270887" ignored="false" />
     <file path="/counter.html" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377508124606" ignored="false" />
     <file path="/application.css" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377507499632" ignored="false" />
-    <file path="/Procfile" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377469994071" ignored="false" />
+    <file path="/Procfile" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377509998142" ignored="false" />
     <file path="/index.html" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377470830083" ignored="false" />
     <file path="/cpu.sh" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377475944579" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,7 +78,7 @@
       <file leaf-file-name="counter_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/counter_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="24" selection-start="143" selection-end="143" vertical-scroll-proportion="0.18789144">
+            <state line="2" column="8" selection-start="61" selection-end="61" vertical-scroll-proportion="0.06263048">
               <folding />
             </state>
           </provider>
@@ -96,7 +96,7 @@
       <file leaf-file-name="Procfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="11" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
+            <state line="1" column="54" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -137,12 +137,12 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/lib/tasks/cpu.sh" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/views/load/index.html" />
         <option value="$PROJECT_DIR$/app/views/counter/counter.html" />
         <option value="$PROJECT_DIR$/app/controllers/counter_controller.rb" />
+        <option value="$PROJECT_DIR$/Procfile" />
       </list>
     </option>
   </component>
@@ -688,13 +688,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="11" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -737,9 +730,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="54" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/counter_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="24" selection-start="143" selection-end="143" vertical-scroll-proportion="0.18789144">
+        <state line="2" column="8" selection-start="61" selection-end="61" vertical-scroll-proportion="0.06263048">
           <folding />
         </state>
       </provider>
