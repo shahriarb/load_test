@@ -52,7 +52,7 @@
       <file leaf-file-name="deploy_hooks.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.cloud66/deploy_hooks.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="80" selection-start="555" selection-end="555" vertical-scroll-proportion="0.53235906">
+            <state line="3" column="91" selection-start="154" selection-end="154" vertical-scroll-proportion="0.09394572">
               <folding />
             </state>
           </provider>
@@ -712,7 +712,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.cloud66/deploy_hooks.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="80" selection-start="555" selection-end="555" vertical-scroll-proportion="0.53235906">
+        <state line="3" column="91" selection-start="154" selection-end="154" vertical-scroll-proportion="0.09394572">
           <folding />
         </state>
       </provider>
