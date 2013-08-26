@@ -1,21 +1,21 @@
 production:
     last_thing:
       - source: /.cloud66/chmod.sh
-        destination: /var/deploy/pk_load-demo/web_head/current/lib/tasks/lib/tasks/chmod.sh
+        destination: <%= ENV['RAILS_STACK_PATH'] %>/lib/tasks/chmod.sh
         target: rails
         execute: true
         sudo: true
 development:
     last_thing:
       - source: /.cloud66/chmod.sh
-        destination: /var/deploy/pk_load-demo/web_head/current/lib/tasks/lib/tasks/chmod.sh
+        destination: <%= ENV['RAILS_STACK_PATH'] %>/lib/tasks/chmod.sh
         target: rails
         execute: true
         sudo: true
 staging:
     last_thing:
       - source: /.cloud66/chmod.sh
-        destination: /var/deploy/pk_load-demo/web_head/current/lib/tasks/lib/tasks/chmod.sh
+        destination: <%= ENV['RAILS_STACK_PATH'] %>/lib/tasks/chmod.sh
         target: rails
         execute: true
         sudo: true
