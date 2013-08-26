@@ -11,7 +11,7 @@
     <file path="/Procfile" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377509998142" ignored="false" />
     <file path="/index.html" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377470830083" ignored="false" />
     <file path="/cpu.sh" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377511785247" ignored="false" />
-    <file path="/chmod.sh" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377513995686" ignored="false" />
+    <file path="/chmod.sh" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377514734224" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,19 +40,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chmod.sh" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="chmod.sh" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.cloud66/chmod.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
+            <state line="0" column="72" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deploy_hooks.yml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="deploy_hooks.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.cloud66/deploy_hooks.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="91" selection-start="154" selection-end="154" vertical-scroll-proportion="0.09394572">
+            <state line="3" column="83" selection-start="84" selection-end="146" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -144,8 +144,8 @@
         <option value="$PROJECT_DIR$/lib/tasks/cpu.sh" />
         <option value="$PROJECT_DIR$/app/controllers/counter_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/counter/counter.html" />
-        <option value="$PROJECT_DIR$/.cloud66/chmod.sh" />
         <option value="$PROJECT_DIR$/.cloud66/deploy_hooks.yml" />
+        <option value="$PROJECT_DIR$/.cloud66/chmod.sh" />
       </list>
     </option>
   </component>
@@ -703,16 +703,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.cloud66/chmod.sh">
+    <entry file="file://$PROJECT_DIR$/.cloud66/deploy_hooks.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
+        <state line="3" column="83" selection-start="84" selection-end="146" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.cloud66/deploy_hooks.yml">
+    <entry file="file://$PROJECT_DIR$/.cloud66/chmod.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="91" selection-start="154" selection-end="154" vertical-scroll-proportion="0.09394572">
+        <state line="0" column="72" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
