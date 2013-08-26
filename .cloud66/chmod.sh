@@ -1,1 +1,1 @@
-chmod 777 /var/deploy/pk_load-demo/web_head/current/lib/tasks/cpu.sh
+chmod 777 $RAILS_STACK_PATH/lib/tasks/cpu.sh
