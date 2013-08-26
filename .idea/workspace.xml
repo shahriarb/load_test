@@ -96,7 +96,7 @@
       <file leaf-file-name="Procfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="56" selection-start="89" selection-end="89" vertical-scroll-proportion="0.03131524">
+            <state line="1" column="5" selection-start="38" selection-end="38" vertical-scroll-proportion="0.03131524">
               <folding />
             </state>
           </provider>
@@ -739,7 +739,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="56" selection-start="89" selection-end="89" vertical-scroll-proportion="0.03131524">
+        <state line="1" column="5" selection-start="38" selection-end="38" vertical-scroll-proportion="0.03131524">
           <folding />
         </state>
       </provider>
